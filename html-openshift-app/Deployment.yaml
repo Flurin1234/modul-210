@@ -21,5 +21,5 @@ spec:
         ports:
         - containerPort: 8080
           protocol: TCP
-        image: ghcr.io/flurin1234/html-openshift-app:v1
+        image: ghcr.io/flurin1234/html-openshift-app:latest
         imagePullPolicy: Always
