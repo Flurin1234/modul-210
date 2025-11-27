@@ -18,7 +18,7 @@ spec:
     sourceStrategy:
       from:
         kind: ImageStreamTag 
-        namespace: opeshift 
+        namespace: openshift 
         name: "nginx:1.20-ubi7" 
   source:
     type: Git 
