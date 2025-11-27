@@ -24,7 +24,7 @@ spec:
     type: Git
     git:
       uri: 'https://github.com/flurin1234/modul-210'  
-    contextDir: /app
+    contextDir: html-openshift-app/app
    # sourceSecret:
   #    name: html-openshift-app-github
   triggers:
