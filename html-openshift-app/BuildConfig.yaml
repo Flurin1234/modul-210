@@ -23,7 +23,7 @@ spec:
   source:
     type: Git
     git:
-      uri: 'https://github.com/Fababum/Module-210.git'  
+      uri: 'https://github.com/flurin1234/modul-210.git'  
     contextDir: /6.2_html_deploy/app
    # sourceSecret:
   #    name: html-openshift-app-github
